@@ -78,7 +78,7 @@ ecommerce-app/
 
 \## CI/CD Pipeline
 
-The GitHub Actions workflow runs when code is pushed to the 'main` branch or a pull request targets
+The GitHub Actions workflow runs when code is pushed to the 'main` branch or a pull request targets.
 
 main`.
 
